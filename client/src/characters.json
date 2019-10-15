@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Dipper",
+        "image": "images/gravityfalls/dipper.png"
+    },
+    {
+        "id": 2,
+        "name": "Mabel",
+        "image": "images/gravityfalls/mabel.png"
+    },
+    {
+        "id": 3,
+        "name": "Candy",
+        "image": "images/gravityfalls/candy.png"
+    },
+    {
+        "id": 4,
+        "name": "Grenda",
+        "image": "images/gravityfalls/grenda.png"
+    },
+    {
+        "id": 5,
+        "name": "Stan",
+        "image": "images/gravityfalls/grunkelstan.png"
+    },
+    {
+        "id": 6,
+        "name": "Stanford",
+        "image": "images/gravityfalls/stanford.png"
+    },
+    {
+        "id": 7,
+        "name": "Waddles",
+        "image": "images/gravityfalls/waddles.png"
+    },
+    {
+        "id": 8,
+        "name": "Soos",
+        "image": "images/gravityfalls/soos.png"
+    },
+    {
+        "id": 9,
+        "name": "Wendy",
+        "image": "images/gravityfalls/wendy.png"
+    },
+    {
+        "id": 10,
+        "name": "Old Man McGucket",
+        "image": "images/gravityfalls/oldman.png"
+    },
+    {
+        "id": 11,
+        "name": "Gideon",
+        "image": "images/gravityfalls/gideon.png"
+    },
+    {
+        "id": 12,
+        "name": "Bill Cypher",
+        "image": "images/gravityfalls/bill.png"
+    }
+]

@@ -1,0 +1,9 @@
+.row {
+  margin: 0 auto;
+}
+
+.jumbotron {
+  background-image: url("/images/gravityfalls/desk.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}

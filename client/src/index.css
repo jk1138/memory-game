@@ -1,0 +1,15 @@
+
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Patrick Hand SC', cursive;
+  background-image: url("/images/gravityfalls/background.png");
+  background-size: 100%;
+  background-size: cover;
+  background-position: center-center;
+}
+
+code {
+  font-family: 'Patrick Hand SC', cursive;
+}

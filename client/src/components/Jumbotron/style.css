@@ -1,0 +1,28 @@
+.jumbotron {
+    min-height: 350px;
+    background-image: url("/images/gravityfalls/desk.jpg");
+    background-size: 100%;
+    background-size: cover;
+    background-position: top-center;
+    padding-top: 100px;
+    margin-top: 50px;
+    padding-bottom: 0;
+}
+
+h1,
+p {
+    text-align: center;
+    font-weight: bold;
+    color: #FFCB05;
+    text-shadow: 2px 2px 8px red;
+}
+
+h1 {
+    margin-top: 7px;
+    font-size: 65px;
+}
+
+p {
+    font-size: 30px;
+    margin-top: 20px;
+}
